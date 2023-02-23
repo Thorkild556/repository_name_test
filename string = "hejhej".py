@@ -1,0 +1,3 @@
+string = "hejhej"
+
+print(string)
